@@ -6,7 +6,7 @@ data_condition = [
         description: "The concept of sight has expanded on the mean streets of 2075. Vision enhancement systems, magic, and variations in natural sight have made the idea of “seeing” taking on different meanings.",
         reference: "SR5, pg. 174. RF, pg. 154.",
         bullets: [
-            "Refer to Environmental conditions for information on dice pool modifiers applied by different light/vision conditions.",
+            "Refer to Environmental conditions for information on dice pool modifiers applied by different light/vision conditions. ",
             "Natural rain, fog, smoke from natural sources, or a smoke screen of some type thrown up for cover, all block line of sight.", 
             "Without line of sight, magicians cannot establish a mystical link between them and their target to cast spells. Sight is not required for spells that require physical contact with the target.",
             "Visibility modifiers are mitigated in all conditions by ultrasound vision systems; thermographic vision compensates in all cases except for thermal smoke.",
