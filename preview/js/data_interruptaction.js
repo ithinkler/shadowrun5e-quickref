@@ -6,7 +6,7 @@ data_interruptaction = [
         description: "A character may choose to use her own unarmed combat skill to block incoming melee attacks as an Interrupt Action (see Defending in Combat, SR5, pg. 188)",
         reference: "SR5, pgs. 168, 188.",
         bullets: [
-            "By decreasing their Initiative Score, the defending character can add their Unarmed Combat skill to their defense test.",
+            "By decreasing their Initiative Score, the defending character can add their Unarmed Combat skill to their defense test. ",
             "This is a one-time add, unlike going on Full Defense, which lasts for an entire Combat Turn. Bonus die, such as die from a relevant weapon foci, can be added to this test."
         ]
     },
