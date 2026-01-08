@@ -7,7 +7,7 @@ data_complexaction = [
         reference: "SR5, pgs. 167, 313.",
         bullets: [
 		"<i>Only characters who are full Magicians can astrally project.</i>",
-		"A character capable of Astral Projection may shift their consciousness to the astral plane as a Complex Action (see p. 313).",
+		"A character capable of Astral Projection may shift their consciousness to the astral plane as a Complex Action (see p. 313). ",
 		"Your body is in a coma-like state while your astral body is out in the aether. Your mind and body are still connected, so any damage taken to body or mind is felt by both.",
 		"As the saying goes, what’s cast in astral space stays in astral space, and ditto for physical space.",
 		"Unarmed astral attacks are an performed through an Opposed Astral Combat + WIL [Astral] v. INT + LOG Test. Astral attacks with a weapon focus are an Opposed Astral Combat + WIL [Accuracy] v. INT + LOG Test. Base Damage Values are listed on the Astral Damage Table; add 1 to the DV per net hit on an attack."
