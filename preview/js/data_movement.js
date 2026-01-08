@@ -6,7 +6,7 @@ data_movement = [
         description: "Walk rate determines the farthest a character can move during a Combat Turn before they are considered to be Running.",
         reference: "SR5, pg. 162.",
         bullets: [
-            "The Movement Rates (Walk and Run) for each metatype are noted on the Movement Table (see SR5 pg. 162)."
+            "The Movement Rates (Walk and Run) for each metatype are noted on the Movement Table (see SR5 pg. 162). "
             ]
     },
     {
