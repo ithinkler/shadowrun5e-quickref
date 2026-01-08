@@ -6,7 +6,7 @@ data_freeaction = [
         description: "This power lets you accomplish more in one Combat Turn.",
         reference: "SR5, pgs. 308-309.",
         bullets: [
-            "Adrenaline Boost is activated as a Free Action.",
+            "Adrenaline Boost is activated as a Free Action. ",
             "You get +2 to your Initiative Score for the current Combat Turn for every level of this power you have.",
             "At the beginning of the next turn after the Adrenaline Boost, you take Drain equal to the number of levels you have in this power."
         ]
