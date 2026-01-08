@@ -7,7 +7,7 @@ data_environment_environmental = [
         reference: "SR5, pg. 175.",
         bullets: [
             "<table><thead><tr><th>Glare</th><th>Modifier</th></tr></thead><tbody><tr><td>No Glare</td><td>None</td></tr><tr><td>Weak Glare</td><td>-1</td></tr><tr><td>Moderate Glare</td><td>-3</td></tr><tr><td>Blinding Glare</td><td>-6</td></tr></tbody></table>",
-            "Two or more conditions (wind, range, etc.) at the -6 level incur a maximum penalty of -10.",
+            "Two or more conditions (wind, range, etc.) at the -6 level incur a maximum penalty of -10. ",
             "Flare compensation reduces Glare modifiers by two categories (shift up on the modifier table), thermographic vision and sunglasses reduce Glare modifiers by one category.",
             "Ultrasound vision systems eliminate the penalty in any light conditions (but only within 50 meters)."
         ]
